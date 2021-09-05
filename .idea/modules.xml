@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/belajar_python.iml" filepath="$PROJECT_DIR$/.idea/belajar_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../farside/.idea/farside.iml" filepath="$PROJECT_DIR$/../farside/.idea/farside.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../magnetogram/.idea/magnetogram.iml" filepath="$PROJECT_DIR$/../magnetogram/.idea/magnetogram.iml" />
     </modules>
   </component>
 </project>
